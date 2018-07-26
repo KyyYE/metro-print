@@ -1,0 +1,14 @@
+
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\print\money"
+   "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+         "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" "20"
+      }
+   }
+}

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/print/glass"
+	"$translucent" 1
+}
+
