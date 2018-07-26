@@ -8,13 +8,21 @@ Welcome to my first ever public addon release. I made this with the intentions o
 ![Features](http://kyyye.uk/i/lrzfd.png)
 
 • Custom Animated Model
+
 • SOS Button (If you're being raided, or whatever, press this and it will explode within 3 seconds)
+
 • Supports your own logo on the side, with a png file to edit!
+
 • Highly Customizable
+
 • Easy to add your own printers
+
 • Metro UI Inspired Design
+
 • Silencer add-on
+
 • Cooler add-on
+
 • Solar Power add-on
 
 
