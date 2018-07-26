@@ -168,7 +168,7 @@ function ENT:Use(a, c, usetype, value)
 	local TraceLine = util.TraceLine({start = c:GetShootPos(), endpos = c:GetAimVector() * 128 + c:GetShootPos(), filter = c})
 	local HitPosition = self:WorldToLocal(TraceLine.HitPos)
 
-	 print(HitPosition.x .. " " .. HitPosition.y)
+	 -- print(HitPosition.x .. " " .. HitPosition.y)
 
 	if TraceLine.Entity == self
 	and HitPosition.x >= 5.140465259552
